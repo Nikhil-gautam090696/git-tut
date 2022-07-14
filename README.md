@@ -1,2 +1,2 @@
-# git-tut
-This is the git tutorial.
+# Resturant Website
+ A simple website using Html Css and Javascript
